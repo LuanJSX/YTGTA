@@ -4,6 +4,8 @@ Uma landing page inspirada no universo visual de **GTA**, desenvolvida com **Rea
 O projeto combina design criativo, performance e boas práticas de desenvolvimento front-end.
 
 ---
+[melhor 1080.webm](https://github.com/user-attachments/assets/6eb36139-b3b5-448b-9dd3-9b864cc7ee9d)
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -41,3 +43,4 @@ ytgta/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
