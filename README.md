@@ -1,16 +1,43 @@
-# React + Vite
+# 🎮 YTGTA — Landing Page estilo GTA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma landing page inspirada no universo visual de **GTA**, desenvolvida com **React.js**, **Vite**, **TailwindCSS** e **GSAP** para animações fluidas e modernas.  
+O projeto combina design criativo, performance e boas práticas de desenvolvimento front-end.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
 
-## React Compiler
+- ⚛️ **React.js** — Biblioteca principal para construção da interface  
+- ⚡ **Vite** — Build tool moderna e rápida para React  
+- 🎨 **TailwindCSS** — Framework CSS para estilização responsiva e componentizada  
+- 🌀 **GSAP** — Biblioteca para animações de alta performance  
+- 💡 **Remixicon** — Ícones leves e personalizáveis  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Estruturação com **componentes reutilizáveis**  
+✅ Estilização responsiva utilizando **TailwindCSS**  
+✅ **Animações com GSAP**, trazendo fluidez e dinamismo à página  
+✅ **Build otimizado com Vite**, garantindo melhor desempenho  
+✅ Organização de pastas e código seguindo boas práticas de **Front-End Development**
+
+---
+
+## 📁 Estrutura do Projeto
+
+```bash
+ytgta/
+│
+├── public/              # Imagens e assets estáticos
+├── src/
+│   ├── components/      # Componentes reutilizáveis
+│   ├── pages/           # Páginas principais
+│   ├── styles/          # Estilos globais
+│   ├── App.jsx          # Componente raiz
+│   └── main.jsx         # Ponto de entrada da aplicação
+│
+├── package.json
+├── vite.config.js
+└── README.md
